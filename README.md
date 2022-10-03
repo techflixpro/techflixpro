@@ -1,6 +1,6 @@
 - 👋 Hi, I’m S.Isaiah @techflixpro
 - 👀 I’m interested in developing websites, web apps and android apps.
-- 🌱 I’m currently learning flutter framework, hopefully to the end of this year 2021.
+- 🌱 I’m currently learning flutter framework, hopefully to the end of this year.
 - 💞️ I’m looking to collaborate on flutter projects with fellow developers. To share knowledge in regards to Flutter framework and also to learn.
 - 📫 How to reach me: cybersquad256@gmail.com
 
